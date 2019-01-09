@@ -1,7 +1,8 @@
 # Robot-Says-Hello
 
-Program written for the Wizard of Oz (WoZ) control of the BWI Bots
-(where the robot appears to be autonomous but is actually humanly-controlled,
-usually from a remote location). This allows for a researcher to control the
-movement and response speech of the BWI Bot as it transcribes human-robot
-interactions and dialogues that take place.
+Code for Wizard of Oz (WoZ) control of the BWI Bots and Speech-to-Text transcription capabilities.
+
+Thus, the robot appears to be autonomous but is actually humanly-controlled
+(usually from a remote location), allowing for a researcher to control its
+movements and response speech as it transcribes all human-robot interactions
+and/or dialogues that take place.
